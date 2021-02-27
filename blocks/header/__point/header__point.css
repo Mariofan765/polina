@@ -1,0 +1,7 @@
+.header__point {
+  list-style-type: none;
+  transition: 0.1s transform linear;
+}
+.header__point:hover {
+  transform: scale(1.1);
+}

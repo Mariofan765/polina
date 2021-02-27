@@ -1,0 +1,9 @@
+.history__paragraph {
+  max-width: 70%;
+  text-align: center;
+}
+.history__paragraph:last-child {
+  max-width: 80%;
+  text-align: center;
+  padding-bottom: 70px;
+}

@@ -1,0 +1,9 @@
+.cardmove__image {
+  transition: 1s margin linear;
+}
+#img2:defined{
+  margin-left: 100%;
+}
+#img1:defined {
+  margin: 0;
+}

@@ -1,0 +1,8 @@
+.page {
+  min-width: 100vw;
+  font-family: 'Inter', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+}

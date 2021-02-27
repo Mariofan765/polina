@@ -1,0 +1,14 @@
+.contacts__input {
+  outline-width: 0;
+  border: 0;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+  opacity: 0.7;
+}
+.contacts__input:focus {
+  opacity: 1;
+}
+.contacts__input:last-child {
+  padding-top: 100px;
+}

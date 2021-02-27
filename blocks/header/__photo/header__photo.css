@@ -1,0 +1,6 @@
+.header__photo {
+  width: 24px;
+  justify-self: flex-end;
+  align-self: center;
+  padding-bottom: 25px;
+}
